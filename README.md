@@ -45,3 +45,9 @@ Data is visualized through interactive animations. The size of bubbles represent
 
 These findings underline the need to plan for a world with a growing population and longer lifespans as well as a changing demographic around the world. for more information and details, please refer to the Tableau file with the datasets.
 
+
+https://github.com/behnaz93montazeri/Global-Demographic-Analysis-Udemy-/assets/124638983/eb6c1a4f-846c-4506-8a6a-1db176c19af1
+
+
+
+
