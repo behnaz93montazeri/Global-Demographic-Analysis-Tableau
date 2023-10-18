@@ -1,4 +1,4 @@
-# Global-Demographic-Analysis-Udemy-
+# Global-Demographic-Analysis-Tableau
 
 ## Project Description:
 Global Demographic Analysis is a data visualization project inspired by a course on Udemy taught by Kirill Eremenko. The goal of this project is to visualize and analyze demographic trends, including fertility rates, life expectancy, and population, for different countries from 1960 to 2013. Through this project, I want to gain insights into how these key demographic indicators have evolved over time and understand potential relationships between them.
