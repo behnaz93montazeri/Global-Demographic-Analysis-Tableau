@@ -15,7 +15,7 @@ The project utilizes multiple datasets, including:
 
 - **Life Expectancy:** Similar to the fertility rate dataset, this dataset contains life expectancy data for the same time frame.
 
-- ## Getting Started
+## Getting Started
 
 To get started with the Global Demographic Analysis project, you will need access to the datasets mentioned above. Additionally, you will require Tableau Software for data processing and visualization.
 
